@@ -2,9 +2,9 @@
     {
         "modid": "anywhichway",
         "name": "AnyWhichWay",
-        "description": "where the water flows in any direction and plants can grow upside down",
-        "version": "${version}",
-        "mcversion": "${mcversion}",
+        "description": "For finding the total id's of popular ids",
+        "version": "1.0.0",
+        "mcversion": "1.16.4",
         "url": "",
         "updateUrl": "",
         "authorList": ["Mysticpasta1"],
