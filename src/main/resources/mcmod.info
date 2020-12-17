@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "anywhichway",
+        "name": "AnyWhichWay",
+        "description": "where the water flows in any direction and plants can grow upside down",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Mysticpasta1"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
